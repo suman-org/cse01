@@ -1,0 +1,29 @@
+#+TITLE: QA Template
+#+Date: 30.10.2015
+#+Description:Test cases for Demo purpose
+
+* cse01_exp1_6
+** Setup
+-OS: Windows 7, Linux
+-Browsers: Firefox,Chrome
+-Bandwidth : 100Mbps
+-Hardware Configuration:8GBRAM , 
+-Processor:i5
+** Functionality Tested
+-User should be able to view the prerequisites to run the simulation of “Feature Representation” experiment
+** Test steps
+1.Click on the Experiment link 
+2.It should re-direct to the Experiment page  
+3.Click on the 'install prerequisites to run the simulation' link present in the page
+
+** Expected Result
+1.Experiment page should be opened
+2.Content should be present with no distortions and Junk characters
+3.When we click on the install prerequisites to run the simulation link,
+  it should redirect to a pdf page with the prerequisites displayed on the screen
+** Pre/Post Conditions
+1.Open the url vlabs.ac.in and vlabs home page will be displayed 
+2.Click on IIIT-Hyderabad and a list of labs will be displayed on the screen 
+3.Select Pattern Recognition Lab, a home page will be displayed and click on list of Pre-Requisitess link,
+  where a list of Pre-Requisitess will be displayed 
+4.Select "Feature Representation" Pre-Requisites.
