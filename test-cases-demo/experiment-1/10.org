@@ -15,7 +15,8 @@
 1.Click on the Further Readings link 
 2.It should re-direct to the Further Readings page
 
-** Expected Result
+** Expected Result:
+
 1.Further Readings page should be opened
 2.Content should be present with no distortions and Junk characters
 ** Pre/Post Conditions
